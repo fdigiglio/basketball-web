@@ -1,0 +1,114 @@
+
+
+
+.nbaheader {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 155%;
+    padding-left: 2%;
+    background-color: darkblue;
+    margin-top: -4.5%;
+    margin-left: -2%;
+    margin-right: -2%;
+    color: white;
+    text-align: center;
+    float: center;
+}
+
+
+.navigating li {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    display: inline;
+
+}
+
+.navigating a {
+    display: block;
+    background-color: darkblue;
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 115%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navigating a:hover {
+
+    background-color: navy;
+    /*color: blue;*/
+}
+
+ .navigating li {
+     float: left;
+ }
+
+ .navigating {
+    margin: 4%;
+
+ }
+ 
+ .navigating ul {
+
+    list-style-type: none;
+    margin-top: -4.5%;
+    margin-left: -5%;
+    margin-right:-5%;
+    padding: 0;
+    overflow: hidden;
+    background-color: darkblue;
+ }
+ 
+.heading {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 155%;
+    float: center;
+    background-color: darkblue;
+    margin-top: -4.5%;
+    margin-left: -2%;
+    margin-right: -2%;
+    color: white;
+    text-align: center;
+}
+
+.playerstats {
+
+    float: right;
+    font-size: 125%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.body {
+
+    font-size: 125%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left;
+
+}
+
+#powerranking article {
+
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-right-style: ridge;
+    border-spacing: -15%;
+    height: 75%;
+    width: 30%;
+    margin: 0%;
+    overflow: unset;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21.5pt;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+
+.titlepr {
+
+    font-size: 125%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 7%;
+    padding-left: 2%;
+}
