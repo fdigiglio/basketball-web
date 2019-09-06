@@ -8,8 +8,8 @@
     padding-left: 2%;
     background-color: darkblue;
     margin-top: -4.5%;
-    margin-left: -2%;
-    margin-right: -2%;
+    margin-left: -5%;
+    margin-right: -5%;
     color: white;
     text-align: center;
     float: center;
@@ -21,7 +21,6 @@
     margin: 0%;
     padding: 0%;
     display: inline;
-
 }
 
 .navigating a {
@@ -32,6 +31,8 @@
     padding: 14px 16px;
     font-size: 115%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: -5%;
+    margin-left: -5%
 }
 
 .navigating a:hover {
@@ -67,8 +68,8 @@
     float: center;
     background-color: darkblue;
     margin-top: -4.5%;
-    margin-left: -2%;
-    margin-right: -2%;
+    margin-left: -5%;
+    margin-right: -5%;
     color: white;
     text-align: center;
 }
@@ -80,11 +81,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.body {
+.explanation {
 
-    font-size: 125%;
+    font-size: 150%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: left;
+
 
 }
 
@@ -112,3 +114,30 @@
     margin-top: 7%;
     padding-left: 2%;
 }
+
+.imagesplayers {
+
+    float: right;
+}
+
+.playerstats {
+
+    float:right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 125%;
+}
+
+.playerstats li {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 125%;
+    list-style-type: none;
+}
+
+.leaderstitles {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+
+}
+
