@@ -100,3 +100,27 @@ a {
 	}
 
 }
+
+/* ================================= 
+  Body Information
+==================================== */
+
+.playerstats {
+
+    font-size: 24px;
+}
+
+#heading1stats {
+
+    font-size: 36px;
+}
+
+#heading2stats {
+
+    font-size: 32px;
+}
+
+img {
+
+    border-style: solid 2px black;
+}
